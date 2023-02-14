@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(printf %o $(($((5#(ech$WATER | tr 'water' '01134'))) + $((5#$(echo $$STIR | tr 'tir.' '01134'))))) | tr '01234567' 'bestschool')
